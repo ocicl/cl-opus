@@ -1,0 +1,10 @@
+* cl-opus
+
+Bindings to opusfile, a simple and free OGG/Opus decoding library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-opus.git   |
+| commit  | {"messa  |
+| systems | cl-opus |
+|---------+-------------------------------------------|
+
