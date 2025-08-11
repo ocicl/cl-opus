@@ -4,6 +4,6 @@ Bindings to opusfile, a simple and free OGG/Opus decoding library
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-opus.git |
-| commit  | 175686d                                      |
+| commit  | b1aadc4                                      |
 | systems | cl-opus                                      |
 |---------+----------------------------------------------|
